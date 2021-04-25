@@ -3,6 +3,8 @@ Sudoku solver with GUI and also alows to play the game
 
 *This was done in python using "pygame"*
 
+<p align="center"><img src="pic-1.png"></p>
+
 Run solver.py file to play the game. 
 
 The best way to solve the sudoku puzzels is usinf the **Backtracking algorithm**
